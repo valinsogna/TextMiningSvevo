@@ -1,2 +1,27 @@
-# TextMiningSvevo
-Advanced ML analysis of Italo Svevo's epistolary corpus. Utilizing Latent Dirichlet Allocation (LDA) for topic modeling and sentiment analysis tools. Dive deep into the predominant themes and sentiments in Svevo's letters, revealing the power of ML in literary exploration.
+# Svevo's Letters Corpus Analysis
+
+Dive into the world of Italo Svevo's letters, uncovering the predominant themes and sentiments using Machine Learning and Data Mining techniques.
+
+## Project Contributors
+- **Valeria Insogna**
+- **Roberta Pascale**
+- **Cecilia Zagni**
+
+## Objective
+Analyze Italo Svevo's epistolary corpus to extract primary topics and sentiments using text mining methods, shedding light on the writer's thematic evolution over time.
+
+## Dataset
+- **Size**: 894 letters from 1885 to 1928
+- **Nature**: Multilingual corpus with Italian as the primary language
+- **Features**: Letters content, recipients, language, date, sender & receiver location
+
+## Techniques
+- **Topic Modeling**: Latent Dirichlet Allocation (LDA)
+- **Sentiment Analysis**: NRC Word-Emotion Association Lexicon
+
+## Key Findings
+- Dominant topics include "Literature", "Travels", "Leisure", and "Relationships".
+- Letters reveal heightened positivity during Svevo's peak success years and negativity linked with personal losses.
+
+## References
+A curated list of references backing the methodology and approach can be found [here](#).
