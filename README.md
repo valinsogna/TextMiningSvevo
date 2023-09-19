@@ -23,5 +23,5 @@ Analyze Italo Svevo's epistolary corpus to extract primary topics and sentiments
 - Dominant topics include "Literature", "Travels", "Leisure", and "Relationships".
 - Letters reveal heightened positivity during Svevo's peak success years and negativity linked with personal losses.
 
-## References
-A curated list of references backing the methodology and approach can be found [here](#).
+## Report
+A curated list of references backing the methodology and approach can be found [here](https://github.com/valinsogna/TextMiningSvevo/blob/main/presentation.pdf).
